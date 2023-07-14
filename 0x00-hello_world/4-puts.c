@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
- *main - This is the entry
+ * main - Entry point of the program
  *
- *return:  Always 0 (sucess)
-*/
+ * Return: Always 0 (success)
+ */
 int main(void)
-{	
-	/** This is a print function */
-	puts("\"Programming is like building a multilingual puzzle,\n");
+{
+	/** This function prints the text */
+	puts("\"Programming is like building a multilingual puzzle\n");
 	return (0);
 }
