@@ -10,7 +10,8 @@
  */
 int main(void)
 {
-	int n; /* This is interger function */
+	/* This is an integer function */
+	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
